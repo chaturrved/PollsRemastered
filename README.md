@@ -1,27 +1,23 @@
-# BlockchainPoll
+# BlockchainPollRemastered
+#This project was part of Blockchain Dapp development course
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
+#Home Page
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/Homepage.png)
 
-## Development server
+#Ganache Testnet
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/Ganache.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#Smart contrect
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/Pollsol.png)
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/deployed%20Smartcontract.png)
 
-## Code scaffolding
+#Create poll
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/Create%20form.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#Poll
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/Poll.png)
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/submit%20vote.png)
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/submit%20vote%202.png)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+#Rsults
+![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/result.png)
