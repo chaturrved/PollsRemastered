@@ -19,5 +19,5 @@
 ![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/submit%20vote.png)
 ![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/submit%20vote%202.png)
 
-#Rsults
+#Result
 ![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/result.png)
