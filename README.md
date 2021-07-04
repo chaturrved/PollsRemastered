@@ -1,5 +1,9 @@
 # BlockchainPollRemastered
-#This project was part of Blockchain Dapp development course
+#This project was part of Blockchain Dapp development course.
+
+#Frontend: Html, Css, Angular, Typescript.
+#Smart Contract: Solidity, Web3.js, Ganache, Metamask.
+
 
 #Home Page
 ![alt.text](https://github.com/chaturrved/PollsRemastered/blob/master/Screenshots/Homepage.png)
