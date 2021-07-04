@@ -1,0 +1,75 @@
+<form [formGroup]="pollForm" (ngSubmit)="submitForm()" class="container col-sm-4">
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label col-form-label-sm">
+      Questions:
+    </label>
+    <div class="col-sm-8">
+      <input
+        formControlName="question"
+        type="text"
+        class="form-control form-control-sm"
+        placeholder="Poll question"
+      />
+    </div>
+  </div>
+
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label col-form-label-sm">
+      Image:
+    </label>
+    <div class="col-sm-8">
+      <input
+        formControlName="image"
+        type="text"
+        class="form-control form-control-sm"
+        placeholder="Url to Image"
+      />
+    </div>
+  </div>
+
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label col-form-label-sm">
+      Options:
+    </label>
+    <div class="col-sm-8">
+      <input
+        formControlName="opt1"
+        type="text"
+        class="form-control form-control-sm"
+        placeholder="Option1"
+      />
+    </div>
+  </div>
+
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label col-form-label-sm">
+    </label>
+    <div class="col-sm-8">
+      <input
+        formControlName="opt2"
+        type="text"
+        class="form-control form-control-sm"
+        placeholder="Option2"
+      />
+    </div>
+  </div>
+
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label col-form-label-sm">
+    </label>
+    <div class="col-sm-8">
+      <input
+        formControlName="opt3"
+        type="text"
+        class="form-control form-control-sm"
+        placeholder="Option3"
+      />
+    </div>
+  </div>
+
+  <div class="d-flex justify-content-center">
+    <button type="submit" class="button-sm btn-secondary">
+      Submit Poll
+    </button>
+  </div>
+</form>

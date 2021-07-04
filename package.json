@@ -1,0 +1,52 @@
+{
+  "name": "blockchain-poll",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "~11.2.13",
+    "@angular/common": "~11.2.13",
+    "@angular/compiler": "~11.2.13",
+    "@angular/core": "~11.2.13",
+    "@angular/forms": "~11.2.13",
+    "@angular/platform-browser": "~11.2.13",
+    "@angular/platform-browser-dynamic": "~11.2.13",
+    "@angular/router": "~11.2.13",
+    "apexcharts": "^3.26.3",
+    "jquery": "^3.6.0",
+    "ng-apexcharts": "^1.5.10",
+    "rxjs": "~6.6.7",
+    "tslib": "^1.14.1",
+    "web3": "^1.2.7",
+    "yarn": "^1.22.10",
+    "zone.js": "~0.11.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~0.800.0",
+    "@angular/cli": "^11.2.12",
+    "@angular/compiler-cli": "~11.2.13",
+    "@angular/language-service": "~11.2.13",
+    "@types/jasmine": "~3.3.8",
+    "@types/jasminewd2": "~2.0.3",
+    "@types/node": "^15.3.0",
+    "codelyzer": "^5.0.0",
+    "jasmine-core": "~3.4.0",
+    "jasmine-spec-reporter": "~4.2.1",
+    "karma": "~4.1.0",
+    "karma-chrome-launcher": "~2.2.0",
+    "karma-coverage-istanbul-reporter": "~2.0.1",
+    "karma-jasmine": "~2.0.1",
+    "karma-jasmine-html-reporter": "^1.4.0",
+    "protractor": "~5.4.0",
+    "ts-node": "~7.0.0",
+    "tslint": "~5.15.0",
+    "typescript": "~4.1.5"
+  }
+}
